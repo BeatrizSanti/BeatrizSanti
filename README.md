@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/BeatrizSanti">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSanti&show_icons=true&count_private=true&hide_border=true&title_color=8E7AB5&icon_color=5D3587&text_color=E5D4FF&bg_color=0d1117" alt="My stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSanti&show_icons=true&count_private=true&hide_border=true&title_color=8E7AB5&icon_color=5D3587&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSanti&layout=compact&langs_count=7&hide_border=true&title_color=8E7AB5&icon_color=5D3587&text_color=E5D4FF&bg_color=0d1117"/>
 </div>
 
