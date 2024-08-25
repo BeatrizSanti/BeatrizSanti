@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
+
 ## Oii! Eu sou a Beatriz Santi 
  <div>
   <a href="https://github.com/BeatrizSanti">
@@ -57,4 +60,4 @@
   <a href = "mailto:bestrizdesanti18@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
